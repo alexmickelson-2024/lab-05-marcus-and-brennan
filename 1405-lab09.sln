@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab09", "MainProgram\Lab09.csproj", "{F9CF14E3-2CD6-4E69-8BAF-A4142BCF456C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xunit", "Xunit\Xunit.csproj", "{916223BA-7817-4945-86EA-342959206735}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{F9CF14E3-2CD6-4E69-8BAF-A4142BCF456C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9CF14E3-2CD6-4E69-8BAF-A4142BCF456C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9CF14E3-2CD6-4E69-8BAF-A4142BCF456C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{916223BA-7817-4945-86EA-342959206735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916223BA-7817-4945-86EA-342959206735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916223BA-7817-4945-86EA-342959206735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916223BA-7817-4945-86EA-342959206735}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
